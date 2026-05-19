@@ -1,4 +1,4 @@
 # First-Demo
 This is My First Repository
 <br>
-Author - Rudrapratap Chavan
+Author - Rudrapratap Chavan (Sanjivani University)
